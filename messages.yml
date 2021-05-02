@@ -1,0 +1,9 @@
+
+msgs:
+   no-permission: "&cYou don't have permission to do that!"
+   configs-reloaded: "&aSuccessfully reloaded all the configs!"
+   region-manager-title: "&8Region Manager"
+   # %value% Region name
+   region-created: "&a&aSuccessfully created region: %value%"
+   region-editing-title: "&8Editing region: %value%"
+   region-blocks-title: "&8Editing region %value%'s blocks"
